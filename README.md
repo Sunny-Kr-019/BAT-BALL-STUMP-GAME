@@ -1,0 +1,2 @@
+# About Simon-Says-Game
+Simon Says is a classic memory and reaction game where a leader (Simon) gives commands starting with "Simon says", like "Simon says touch your nose." Players must follow only if the phrase "Simon says" is included. If Simon gives a command without saying "Simon says", players who follow it are out. The game continues until one player remains or Simon decides to end it. It helps improve listening skills and quick thinking. 🎮
