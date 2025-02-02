@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background: linear-gradient(90deg, #3b8ebd, #45226d);
+}
+
+.choice-button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 7px;
+  background-color: rgb(68, 76, 194);
+  cursor: pointer;
+}
+.choice-image{
+  height: 85px;
+  border-radius: 50px;
+}
+#divId{
+    width: 400px;
+    height: 270px;
+    margin-top: 180px;
+    margin-left: 600px;
+    /* border: solid black 2px; */
+    background-color: rgb(43, 79, 195);
+}
+#resetBtn{
+    margin-top: 40px;
+    height: 40px;
+    width: 60px;
+}
