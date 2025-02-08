@@ -5,4 +5,6 @@ The Bat-Ball-Stump Game is a fun and interactive game inspired by the classic Ro
 - Bat beats Ball (because a bat can hit the ball)
 - Ball beats Stump (because a ball can knock down the stump)
 - Stump beats Bat (because a stump can stop the bat from hitting)
+
+
 Built using HTML, CSS, and JavaScript, this game provides an engaging and visually appealing experience with simple yet dynamic gameplay. It’s a great way for cricket lovers to enjoy a quick and fun challenge while testing their luck and strategy.
